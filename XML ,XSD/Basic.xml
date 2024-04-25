@@ -1,0 +1,9 @@
+<class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Basic.xsd">
+  <student>
+    <firstname>shri</firstname>
+    <lastname>Dhage</lastname>
+    <age>100</age>
+    <gender>Male</gender>
+    <mobilenumber>1234567890</mobilenumber>
+  </student>
+</class>
